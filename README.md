@@ -16,7 +16,7 @@
 
 ---
 
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2023%20mins-blue)
+![Code Time]( )
 
 <!--START_SECTION:waka-->
 
