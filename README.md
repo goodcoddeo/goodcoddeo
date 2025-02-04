@@ -5,6 +5,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) !
 
+<a href="mailto:mail@goodc.xyz">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="mailto:mail@goodc.xyz">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</a>
+
+
+
 ---
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2023%20mins-blue)
