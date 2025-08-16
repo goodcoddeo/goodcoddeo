@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,7 +50,7 @@ Windows                  35 mins             ███████████�
 ```
 
 
- Last Updated on 15/08/2025 18:53:28 UTC
+ Last Updated on 16/08/2025 18:49:50 UTC
 <!--END_SECTION:waka-->
 
 <br>
