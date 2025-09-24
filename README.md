@@ -20,8 +20,10 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2038%20mins-blue)
 
- Last Updated on 23/09/2025 18:49:59 UTC
+
+ Last Updated on 24/09/2025 18:48:04 UTC
 <!--END_SECTION:waka-->
 
 <br>
