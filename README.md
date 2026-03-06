@@ -20,39 +20,10 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2045%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-🌆 Daytime                77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-🌃 Evening                265 commits         █████████████████░░░░░░░░   66.08 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2053%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JavaScript               4 hrs 12 mins       █████████████░░░░░░░░░░░░   50.31 % 
-Python                   2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Skript                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 05/03/2026 19:44:45 UTC
+ Last Updated on 06/03/2026 19:11:56 UTC
 <!--END_SECTION:waka-->
 
 <br>
