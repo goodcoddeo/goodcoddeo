@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-🌆 Daytime                78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-🌃 Evening                264 commits         ████████████████░░░░░░░░░   65.84 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+🌆 Daytime                78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+🌃 Evening                266 commits         ████████████████░░░░░░░░░   64.88 % 
+🌙 Night                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 ```
 
 
@@ -38,21 +38,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               3 hrs 59 mins       █████████████████████░░░░   82.58 % 
-Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JavaScript               2 hrs 56 mins       ██████████████████░░░░░░░   72.28 % 
+Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Git Config               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       ██████████████████████░░░   86.19 % 
+Cursor                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2026 19:22:04 UTC
+ Last Updated on 21/03/2026 19:01:51 UTC
 <!--END_SECTION:waka-->
 
 <br>
