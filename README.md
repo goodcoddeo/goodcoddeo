@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,22 +38,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 10 mins       ███████████████░░░░░░░░░░   59.19 % 
-Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Git Config               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+JavaScript               1 hr 51 mins        █████████████████░░░░░░░░   66.20 % 
+Git Config               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       ████████████████░░░░░░░░░   62.87 % 
-Cursor                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.13 % 
+VS Code                  1 hr 26 mins        █████████████░░░░░░░░░░░░   51.32 % 
+Cursor                   1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.68 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/03/2026 19:03:17 UTC
+ Last Updated on 23/03/2026 19:29:56 UTC
 <!--END_SECTION:waka-->
 
 <br>
