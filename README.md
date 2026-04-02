@@ -20,15 +20,15 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                85 commits          █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-🌃 Evening                281 commits         ████████████████░░░░░░░░░   64.60 % 
-🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+🌞 Morning                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌆 Daytime                85 commits          █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+🌃 Evening                293 commits         ████████████████░░░░░░░░░   65.55 % 
+🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 
@@ -38,17 +38,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     1 min               █████████████████████████   100.00 % 
+Other                    1 hr 9 mins         ████████████████░░░░░░░░░   64.16 % 
+TypeScript               29 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        ████████████████████████░   95.85 % 
+Cursor                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 19:39:02 UTC
+ Last Updated on 02/04/2026 19:31:25 UTC
 <!--END_SECTION:waka-->
 
 <br>
