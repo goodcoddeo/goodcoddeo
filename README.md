@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-🌆 Daytime                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-🌃 Evening                298 commits         ████████████████░░░░░░░░░   64.78 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+🌃 Evening                299 commits         ████████████████░░░░░░░░░   64.86 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 ```
 
 
@@ -38,17 +38,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+TSConfig                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Prisma                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/04/2026 20:01:14 UTC
+ Last Updated on 30/04/2026 19:58:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
