@@ -38,21 +38,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Skript                   1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
-Python                   1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Skript                   1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   35.78 % 
+Python                   1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   33.25 % 
+TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2026 19:41:20 UTC
+ Last Updated on 10/05/2026 19:41:20 UTC
 <!--END_SECTION:waka-->
 
 <br>
