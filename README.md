@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,21 +38,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Skript                   1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   35.78 % 
-Python                   1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   33.25 % 
-TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Python                   1 hr 15 mins        ██████████████░░░░░░░░░░░   54.34 % 
+Skript                   35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2026 19:41:20 UTC
+ Last Updated on 11/05/2026 20:19:30 UTC
 <!--END_SECTION:waka-->
 
 <br>
