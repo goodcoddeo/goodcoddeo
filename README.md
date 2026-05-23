@@ -20,34 +20,8 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-🌆 Daytime                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-🌃 Evening                301 commits         ████████████████░░░░░░░░░   65.01 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   14 mins             █████████████░░░░░░░░░░░░   51.68 % 
-JavaScript               13 mins             ████████████░░░░░░░░░░░░░   48.32 % 
-
-🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 20:21:58 UTC
+ Last Updated on 23/05/2026 19:45:18 UTC
 <!--END_SECTION:waka-->
 
 <br>
