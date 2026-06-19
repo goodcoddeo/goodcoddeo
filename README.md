@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-🌆 Daytime                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-🌃 Evening                301 commits         ████████████████░░░░░░░░░   64.45 % 
-🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+🌆 Daytime                93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+🌃 Evening                301 commits         ████████████████░░░░░░░░░   64.18 % 
+🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 
 
@@ -38,18 +38,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   9 mins              ████████████████████████░   94.55 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Python                   13 mins             ██████████████░░░░░░░░░░░   56.01 % 
+Bash                     6 mins              ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 21:04:28 UTC
+ Last Updated on 19/06/2026 20:17:51 UTC
 <!--END_SECTION:waka-->
 
 <br>
