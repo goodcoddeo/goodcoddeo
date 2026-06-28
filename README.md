@@ -38,20 +38,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               56 mins             ██████████████████████░░░   89.87 % 
-Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             ████████████████░░░░░░░░░   65.86 % 
-Antigravity Desktop      21 mins             █████████░░░░░░░░░░░░░░░░   34.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/06/2026 19:54:39 UTC
+ Last Updated on 28/06/2026 19:55:59 UTC
 <!--END_SECTION:waka-->
 
 <br>
