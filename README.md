@@ -38,22 +38,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.76 % 
-Python                   55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+JavaScript               1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   38.04 % 
+Python                   55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       ██████████████░░░░░░░░░░░   57.59 % 
-Antigravity Desktop      1 hr 39 mins        ███████████░░░░░░░░░░░░░░   42.41 % 
+VS Code                  2 hrs 16 mins       ██████████████░░░░░░░░░░░   57.79 % 
+Antigravity Desktop      1 hr 39 mins        ███████████░░░░░░░░░░░░░░   42.21 % 
 
 💻 Operating System: 
-Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2026 20:28:34 UTC
+ Last Updated on 07/07/2026 20:28:03 UTC
 <!--END_SECTION:waka-->
 
 <br>
