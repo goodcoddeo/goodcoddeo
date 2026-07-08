@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,22 +38,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   38.04 % 
-Python                   55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JavaScript               1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   38.84 % 
+Python                   55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       ██████████████░░░░░░░░░░░   57.79 % 
-Antigravity Desktop      1 hr 39 mins        ███████████░░░░░░░░░░░░░░   42.21 % 
+VS Code                  2 hrs 15 mins       ███████████████░░░░░░░░░░   58.17 % 
+Antigravity Desktop      1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   41.83 % 
 
 💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 20:28:03 UTC
+ Last Updated on 08/07/2026 20:06:29 UTC
 <!--END_SECTION:waka-->
 
 <br>
