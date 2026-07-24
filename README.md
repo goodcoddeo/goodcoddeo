@@ -20,37 +20,8 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-🌆 Daytime                119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-🌃 Evening                317 commits         ███████████████░░░░░░░░░░   59.92 % 
-🌙 Night                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.77 % 
-JavaScript               50 mins             █████████░░░░░░░░░░░░░░░░   34.08 % 
-Markdown                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-
-🔥 Editors: 
-Antigravity Desktop      1 hr 18 mins        █████████████░░░░░░░░░░░░   53.29 % 
-VS Code                  1 hr 8 mins         ████████████░░░░░░░░░░░░░   46.71 % 
-
-💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/07/2026 19:57:14 UTC
+ Last Updated on 24/07/2026 19:57:31 UTC
 <!--END_SECTION:waka-->
 
 <br>
