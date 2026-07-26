@@ -38,21 +38,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               57 mins             ████████████░░░░░░░░░░░░░   48.73 % 
-Python                   41 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         ██████████████░░░░░░░░░░░   55.69 % 
-Antigravity Desktop      52 mins             ███████████░░░░░░░░░░░░░░   44.31 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/07/2026 19:46:18 UTC
+ Last Updated on 26/07/2026 19:45:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
