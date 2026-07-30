@@ -20,9 +20,9 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2011%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,45 +40,45 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        ████████████░░░░░░░░░░░░░   47.99 % 
-Markdown                 1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Git Config               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JavaScript               1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.96 % 
+Markdown                 1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.37 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-Antigravity Desktop      2 hrs 53 mins       ███████████████████░░░░░░   77.93 % 
-VS Code                  49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Antigravity Desktop      3 hrs 32 mins       ████████████████████░░░░░   80.24 % 
+VS Code                  52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 
 💻 Operating System: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 40 mins (99.12%)
+⏱ AI Coding Time: 4 hrs 23 mins (99.26%)
 
-✍️ 551 lines written by AI, 6 lines written by hand (98.92% AI-written)
+✍️ 645 lines written by AI, 6 lines written by hand (99.08% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 39 AI Prompts
+🧠 4 AI Sessions, 46 AI Prompts
 
-Gemini                   538 lines           ███████████████████████░░   91.50 % 
-Github-Copilot           50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Gemini                   632 lines           ███████████████████████░░   92.67 % 
+Github-Copilot           50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.92% of written lines came from AI
-📝 Concise Prompter — average 438 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.08% of written lines came from AI
+📝 Concise Prompter — average 496 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 19:54:38 UTC
+ Last Updated on 30/07/2026 20:04:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
