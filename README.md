@@ -40,45 +40,45 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.96 % 
-Markdown                 1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.37 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JavaScript               1 hr 4 mins         ███████████████░░░░░░░░░░   58.97 % 
+Markdown                 36 mins             ████████░░░░░░░░░░░░░░░░░   33.16 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Antigravity Desktop      3 hrs 32 mins       ████████████████████░░░░░   80.24 % 
-VS Code                  52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Antigravity Desktop      1 hr 18 mins        ██████████████████░░░░░░░   71.99 % 
+VS Code                  30 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 23 mins (99.26%)
+⏱ AI Coding Time: 1 hr 47 mins (98.71%)
 
-✍️ 645 lines written by AI, 6 lines written by hand (99.08% AI-written)
+✍️ 388 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 46 AI Prompts
+🧠 2 AI Sessions, 16 AI Prompts
 
-Gemini                   632 lines           ███████████████████████░░   92.67 % 
-Github-Copilot           50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Gemini                   375 lines           ██████████████████████░░░   88.24 % 
+Github-Copilot           50 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.08% of written lines came from AI
-📝 Concise Prompter — average 496 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.16% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 394 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 19:45:35 UTC
+ Last Updated on 04/08/2026 20:11:05 UTC
 <!--END_SECTION:waka-->
 
 <br>
