@@ -40,38 +40,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             ████████████████████████░   94.69 % 
-Antigravity Desktop      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (17.34%)
-
-✍️ 0 lines written by AI, 58 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/09/2026 20:58:59 UTC
+ Last Updated on 05/09/2026 20:39:58 UTC
 <!--END_SECTION:waka-->
 
 <br>
