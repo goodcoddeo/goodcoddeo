@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-🌆 Daytime                119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-🌃 Evening                323 commits         ███████████████░░░░░░░░░░   60.37 % 
-🌙 Night                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+🌆 Daytime                119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+🌃 Evening                327 commits         ███████████████░░░░░░░░░░   60.67 % 
+🌙 Night                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 
 
@@ -40,23 +40,39 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               16 mins             ████████████████████████░   97.38 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             ███████████████████░░░░░░   76.21 % 
+Antigravity Desktop      4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (57.77%)
+
+✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,105 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 21:12:49 UTC
+ Last Updated on 12/09/2026 20:52:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
