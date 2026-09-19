@@ -40,39 +40,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               16 mins             ████████████████████████░   97.38 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             ███████████████████░░░░░░   76.21 % 
-Antigravity Desktop      4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (57.77%)
-
-✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,105 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2026 21:11:32 UTC
+ Last Updated on 19/09/2026 20:57:17 UTC
 <!--END_SECTION:waka-->
 
 <br>
