@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-🌆 Daytime                119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌃 Evening                327 commits         ███████████████░░░░░░░░░░   60.67 % 
-🌙 Night                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+🌆 Daytime                129 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+🌃 Evening                336 commits         ███████████████░░░░░░░░░░   59.79 % 
+🌙 Night                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 
 
@@ -40,23 +40,37 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity Desktop      7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 21:47:24 UTC
+ Last Updated on 26/09/2026 21:26:23 UTC
 <!--END_SECTION:waka-->
 
 <br>
