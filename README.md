@@ -40,19 +40,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   100.00 % 
+Other                    7 mins              ████████████████████░░░░░   79.86 % 
+JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 
 🔥 Editors: 
-Antigravity Desktop      7 mins              █████████████████████████   100.00 % 
+Antigravity Desktop      7 mins              ████████████████████░░░░░   79.86 % 
+VS Code                  1 min               █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (100.0%)
+⏱ AI Coding Time: 7 mins (79.86%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -70,7 +72,7 @@ Windows                  7 mins              ███████████�
 ```
 
 
- Last Updated on 26/09/2026 21:26:23 UTC
+ Last Updated on 27/09/2026 21:33:36 UTC
 <!--END_SECTION:waka-->
 
 <br>
