@@ -40,39 +40,44 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    7 mins              ████████████████████░░░░░   79.86 % 
-JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Python                   50 mins             █████████████████████░░░░   82.78 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity Desktop      7 mins              ████████████████████░░░░░   79.86 % 
-VS Code                  1 min               █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+VS Code                  52 mins             ██████████████████████░░░   87.02 % 
+Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (79.86%)
+⏱ AI Coding Time: 45 mins (75.21%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 2,198 lines written by AI, 314 lines written by hand (87.5% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
+
+Github-Copilot           2,198 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 87.5% of written lines came from AI
+📄 Detailed Prompter — average 991 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 15.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 22:32:31 UTC
+ Last Updated on 01/10/2026 22:53:00 UTC
 <!--END_SECTION:waka-->
 
 <br>
