@@ -40,24 +40,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   50 mins             █████████████████████░░░░   82.78 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Python                   50 mins             ████████████████████████░   95.12 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  52 mins             ██████████████████████░░░   87.02 % 
-Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (75.21%)
+⏱ AI Coding Time: 37 mins (71.51%)
 
 ✍️ 2,198 lines written by AI, 314 lines written by hand (87.5% AI-written)
 
@@ -65,19 +64,19 @@ Windows                  1 hr                ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 Github-Copilot           2,198 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 87.5% of written lines came from AI
-📄 Detailed Prompter — average 991 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,348 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 15.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 22:29:58 UTC
+ Last Updated on 03/10/2026 21:42:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
