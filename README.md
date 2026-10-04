@@ -40,23 +40,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   50 mins             ████████████████████████░   95.12 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Python                   50 mins             █████████████████████████   98.84 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (71.51%)
+⏱ AI Coding Time: 37 mins (74.31%)
 
 ✍️ 2,198 lines written by AI, 314 lines written by hand (87.5% AI-written)
 
@@ -76,7 +76,7 @@ Github-Copilot           2,198 lines         ███████████�
 ```
 
 
- Last Updated on 03/10/2026 21:42:27 UTC
+ Last Updated on 04/10/2026 21:51:56 UTC
 <!--END_SECTION:waka-->
 
 <br>
