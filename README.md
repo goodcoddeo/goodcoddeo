@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-🌆 Daytime                126 commits         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌃 Evening                336 commits         ███████████████░░░░░░░░░░   60.11 % 
-🌙 Night                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+🌆 Daytime                129 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+🌃 Evening                336 commits         ███████████████░░░░░░░░░░   59.79 % 
+🌙 Night                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 
 
@@ -40,25 +40,25 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   50 mins             █████████████████████████   98.84 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   53 mins             █████████████████████████   98.90 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (74.31%)
+⏱ AI Coding Time: 37 mins (70.06%)
 
-✍️ 2,198 lines written by AI, 314 lines written by hand (87.5% AI-written)
+✍️ 2,198 lines written by AI, 511 lines written by hand (81.14% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -69,14 +69,14 @@ Windows                  50 mins             ███████████�
 Github-Copilot           2,198 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.5% of written lines came from AI
+🤖 AI-Driven — 81.14% of written lines came from AI
 📄 Detailed Prompter — average 1,348 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 15.82% of changed lines were hand-edited
+🚀 High AI Trust — 21.78% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 22:46:26 UTC
+ Last Updated on 07/10/2026 23:16:45 UTC
 <!--END_SECTION:waka-->
 
 <br>
