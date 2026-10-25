@@ -40,23 +40,44 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   30 mins             █████████░░░░░░░░░░░░░░░░   37.52 % 
+Bash                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Copilot CLI              1 hr 6 mins         ████████████████████░░░░░   81.49 % 
+VS Code                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 16 mins (93.45%)
+
+✍️ 580 lines written by AI, 213 lines written by hand (73.14% AI-written)
+
+🔤 552,223 Input Tokens, 88,842 Output Tokens
+
+💵 $0.16 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 10 AI Prompts
+
+GPT                      581 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 73.14% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 45.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 21:07:50 UTC
+ Last Updated on 25/10/2026 21:10:13 UTC
 <!--END_SECTION:waka-->
 
 <br>
