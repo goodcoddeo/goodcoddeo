@@ -20,17 +20,17 @@
 [![wakatime](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852.svg)](https://wakatime.com/badge/user/1b7a75a2-ed59-4a19-ad1e-fc4d230c9d40/project/d6c16526-e041-41c3-9da2-c3d22cec6852)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2024%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-🌆 Daytime                113 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-🌃 Evening                322 commits         ███████████████░░░░░░░░░░   60.07 % 
-🌙 Night                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+🌆 Daytime                113 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌃 Evening                323 commits         ███████████████░░░░░░░░░░   60.15 % 
+🌙 Night                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 ```
 
 
@@ -40,26 +40,26 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   30 mins             █████████░░░░░░░░░░░░░░░░   37.52 % 
-Bash                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Python                   30 mins             █████████░░░░░░░░░░░░░░░░   37.21 % 
+Bash                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 6 mins         ████████████████████░░░░░   81.49 % 
-VS Code                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Copilot CLI              1 hr 6 mins         ████████████████████░░░░░   80.83 % 
+VS Code                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (93.45%)
+⏱ AI Coding Time: 1 hr 16 mins (92.7%)
 
-✍️ 580 lines written by AI, 213 lines written by hand (73.14% AI-written)
+✍️ 580 lines written by AI, 218 lines written by hand (72.68% AI-written)
 
 🔤 552,223 Input Tokens, 88,842 Output Tokens
 
@@ -70,14 +70,14 @@ Windows                  1 hr 21 mins        ███████████�
 GPT                      581 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.14% of written lines came from AI
+🤖 AI-Driven — 72.68% of written lines came from AI
 📝 Concise Prompter — average 104 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 45.65% of changed lines were hand-edited
+🚀 High AI Trust — 45.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 21:10:13 UTC
+ Last Updated on 26/10/2026 22:51:33 UTC
 <!--END_SECTION:waka-->
 
 <br>
